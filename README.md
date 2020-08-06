@@ -1,4 +1,4 @@
-Emotion Classification with Electroencephalography Records
+Predicting Emotions of People with Application of Machine Learning Algorithms on EEG Data
 =========
 
 **Table of Contents**
